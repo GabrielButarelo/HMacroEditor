@@ -1,0 +1,10 @@
+fonte;Dialog
+tamanho;14
+ativarnegrito;nao
+corlogicos;#DAA520
+corsintaxe;#B452CD
+cor@;#698B22
+cor#;#CD3278
+cor%;#228B22
+cor&;#D02090
+coroutros;#6959CD
